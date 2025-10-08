@@ -5,4 +5,4 @@
 
 
 
-PyOS Is A Little OS Project. PS Im A Newbie In Python So This Isnt Very Great. From Now On This Will Be Linux Only
+PyOS Is A Little OS Project. PS Im A Newbie In Python So This Isnt Very Great. From Now On This Will Be Linux Only Until I Make It A Crossplatform Project.
