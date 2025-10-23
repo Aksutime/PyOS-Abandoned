@@ -5,4 +5,4 @@
 
 
 
-PyOS Is A Little OS Project. PS Im A Newbie In Python So This Isnt Very Great. From Now On This Will Be Linux Only Until I Make It A Crossplatform Project. Noting That I Might Have Accidentally Released The OS With Faulty Script Files. Gonna Fix That.
+PyOS Is A Little OS Project. From Now On This Will Be Linux Only Until I Make It A Crossplatform Project. 
