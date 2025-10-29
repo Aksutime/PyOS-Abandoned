@@ -5,4 +5,4 @@
 
 
 
-PyOS Is A Little OS Project. From Now On This Will Be Linux Only Until I Make It A Crossplatform Project. 
+PyOS Is A Little OS Project. From Now On This Will Be Linux Only Until I Make It A Crossplatform Project. I Have Abandoned This Project.
